@@ -2,9 +2,9 @@
 
 This project was created using the phaser3 template on github
 
-https://github.com/photonstorm/phaser3-project-template[https://github.com/photonstorm/phaser3-project-template]
+https://github.com/photonstorm/phaser3-project-template
 
-Check out Phaser.io[https://phaser.io] for more information
+Check out [Phaser.io](https://phaser.io) for more information
 
 ___
 

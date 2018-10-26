@@ -189,4 +189,3 @@ function hitBomb(player, bomb){
         \n score: ${score} 
         \n bombs: ${bombs.countActive(true)}`)
 }
-
